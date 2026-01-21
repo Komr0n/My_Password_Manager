@@ -40,13 +40,6 @@ Direct entrypoint:
 python password_manager_improved.py
 ```
 
-## Generated files (do not commit)
-
-- `passwords.enc` - encrypted data store
-- `passwords.enc.salt` - salt used for key derivation
-- `passwords.enc.bak` - optional backup
-- `password_manager.log` - local log file
-
 ## File layout
 
 ```
