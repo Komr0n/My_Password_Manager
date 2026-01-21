@@ -1,0 +1,8 @@
+# Core encryption library for AES-256 encryption
+pycryptodome
+
+# Clipboard operations for copying passwords
+pyperclip
+
+# Note: tkinter is included with Python standard library
+# Note: All other dependencies (json, base64, hashlib, secrets, string, os) are standard Python modules 

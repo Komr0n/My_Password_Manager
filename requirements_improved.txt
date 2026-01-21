@@ -1,0 +1,8 @@
+# Core encryption library for AES-256 encryption with PBKDF2
+pycryptodome>=3.19.0
+
+# Clipboard operations for copying passwords
+pyperclip>=1.8.2
+
+# Note: tkinter is included with Python standard library
+# Note: All other dependencies (json, base64, hashlib, secrets, string, os, threading, time, logging) are standard Python modules 
